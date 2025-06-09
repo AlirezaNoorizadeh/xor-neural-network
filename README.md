@@ -35,4 +35,4 @@ This project demonstrates a basic neural network trained to solve the XOR proble
 ![Sample Data Snapshot](https://github.com/AlirezaNoorizadeh/xor-neural-network/blob/main/assets/sample-output.jpg)
 
 ## 📚 References
-* [Scikit-learn Documentation](https://scikit-learn.org/)
+* [TensorFlow Keras](https://www.tensorflow.org/guide/keras/sequential_model/)
